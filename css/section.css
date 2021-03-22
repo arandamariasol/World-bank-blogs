@@ -1,0 +1,28 @@
+section {
+    display: flex;
+    justify-content: center;
+    flex-basis: 100%;
+    background-image: url("../Digital Development/img/Background.PNG");
+    font-family: 'Andes',sans-serif;
+    color: #ffffff;
+}
+
+section h2 {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+    font-style: normal;
+}
+
+.digdev {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    line-height: 39px;
+    color: #ffffff;
+    text-transform: none;
+    font-size: 28px;
+    font-weight: 600;
+}
