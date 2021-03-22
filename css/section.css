@@ -2,7 +2,6 @@ section {
     display: flex;
     justify-content: center;
     flex-basis: 100%;
-    background-image: url("../Digital Development/img/Background.PNG");
     font-family: 'Andes',sans-serif;
     color: #ffffff;
 }
@@ -15,7 +14,15 @@ section h2 {
     font-style: normal;
 }
 
-.digdev {
+.section1 {  
+    background-image: url("../Digital Development/img/Background.PNG");
+}
+
+.section2 {
+    background-image: url("../Education for Global Development/img/background.PNG");
+}
+
+.banner {
     display: flex;
     flex-direction: column;
     justify-content: center;
